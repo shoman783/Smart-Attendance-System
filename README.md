@@ -22,14 +22,6 @@ Instead of traditional manual registration, each student uses a personal **RFID 
  
 ---
  
-## 🖼️ Project Photos
- 
-| Hardware Build | Circuit Simulation | Google Sheets Live Data |
-|:-:|:-:|:-:|
-| ![Hardware](assets/hardware.jpg) | ![Simulation](assets/simulation.png) | ![Sheets](assets/sheets.png) |
- 
----
- 
 ## ✨ Features
  
 - ⚡ **Instant scan** — attendance logged in under 1 second
@@ -283,12 +275,6 @@ Faculty of Computer Science — IoT & Embedded Systems
 | 👨‍🏫 Supervisor | **Dr. Anas Saber** |
 | 👩‍🏫 Teaching Assistant | **Salma** |
 | 👩‍🏫 Teaching Assistant | **Yasmine** |
- 
----
- 
-## 📄 License
- 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
  
 ---
  
